@@ -1,0 +1,14 @@
+
+
+**Database Name: foodorderigniter**
+
+
+**Admin Login Details** 
+
+Username: admin
+Password: admin
+
+**Customer Login Details**
+
+Username: taylor
+Password: password
